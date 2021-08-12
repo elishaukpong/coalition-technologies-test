@@ -1,4 +1,4 @@
-## HOSTAway 
+## Coalition Techmologies Test
 * PHP >=7.2
 * MySQL
 ## Based ON
